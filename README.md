@@ -4,10 +4,11 @@ Currently Psychology student by day, and digital artist by night.<br><br>
 Aspiring Computer Science degree.<br><br>
 I started learning programming last year.<br><br>
  -->
-<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=Howdy,+I'm+Nael+👋;Currently+Psychology+student+by+day,+and+digital+artist+by+night.;Aspiring+Computer+Science+degree.;I+started+learning+programming+last+year.&size=16&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false" />
+ 
+<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=16&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false&lines=Howdy,+I'm+Nael+👋;Currently+Psychology+student+by+day,+and+digital+artist+by+night.;Aspiring+Computer+Science+degree.;I+started+learning+programming+last+year." />
 
 <h2 align="center">✨ Interests</h2>
-<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT&size=30&height=90&width=1200&center=true&multiline=false&repeat=true" />
+<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=30&height=90&width=1200&center=true&multiline=false&repeat=true&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT" />
 <!-- <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT&size=30&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false" /> -->
 <p align="center">
   
