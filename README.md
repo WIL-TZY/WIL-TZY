@@ -1,11 +1,6 @@
 <!-- <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="auto" height="130" theme=tokyonight/><br><br> -->
-<!-- Howdy, I'm Nael 👋<br><br>
-Currently Psychology student by day, and digital artist by night.<br><br>
-Aspiring Computer Science degree.<br><br>
-I started learning programming last year.<br><br>
- -->
  
-<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=16&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false&lines=Howdy,+I'm+Nael+👋;Currently+Psychology+student+by+day,+and+digital+artist+by+night.;Aspiring+Computer+Science+degree.;I+started+learning+programming+last+year." />
+<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=18&duration=2500&height=100&width=1200&pause=300&center=true&multiline=true&repeat=false&lines=Howdy,+I'm+Nael+👋;Currently+Psychology+student+by+day,+and+digital+artist+by+night.;Aspiring+Computer+Science+degree.;I+started+learning+programming+last+year." />
 
 <h2 align="center">✨ Interests</h2>
 <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=30&height=90&width=1200&center=true&multiline=false&repeat=true&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT" />
@@ -14,13 +9,11 @@ I started learning programming last year.<br><br>
   
 <h2 align="left">📚 Learning</h2>
 
-<img align="left" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&labelColor=ffffff&color=bfffcd&logoWidth=20" />
-<img align="left" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1c88c8&labelColor=ddccfc" />
-<img align="left" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=violet" />
+<img align="left" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoWidth=20" />
+<img align="left" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1c88c8" />
+<img align="left" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
 <img align="left" src="https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080" />  
-<img align="left" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=cccccc" /> 
-<img align="left" src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=cccccc" />  
-  
+<img align="left" src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />  
 <img align="left" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python" />
 
 <h2 align="center">🛠 Tools</h2>
@@ -60,4 +53,3 @@ I started learning programming last year.<br><br>
 </div>
  -->
 
-<div>
