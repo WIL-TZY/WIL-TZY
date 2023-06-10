@@ -39,9 +39,9 @@
 <details align="center">
  <summary>:zap: Github Stats</summary>
  <br>
-  <!-- https://github-readme-stats-git-master-willowitzy.vercel.app/ -->
-  <img align="center" src= "https://github-readme-stats-git-master-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=compact&langs_count=6&theme=radical" />
-  <!-- <img align="center" src= "https://github-readme-stats-git-master-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" /> -->
+
+  <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=donut&langs_count=6&hide=yacc,glsl&theme=radical" />
+  <!-- <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" /> -->
 
 </p> 
 </details>
