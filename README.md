@@ -34,13 +34,17 @@
 <!-- <h2></h2>
 
 <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GITHUB+STATS&size=30&duration=2500&height=90&width=1200&pause=300&center=true&multiline=false&repeat=false" />
+-->
 
-<p align="center">
-  
-  <img align="center" src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=willowitzy&layout=compact&langs_count=6&theme=radical" />
-  <img align="center" src= "https://github-readme-stats-sigma-five.vercel.app/api?username=willowitzy&theme=radical&line_height=28" />
+<details align="center">
+ <summary>:zap: Github Stats</summary>
+ <br>
+  <!-- https://github-readme-stats-git-master-willowitzy.vercel.app/ -->
+  <img align="center" src= "https://github-readme-stats-git-master-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=compact&langs_count=6&theme=radical" />
+  <!-- <img align="center" src= "https://github-readme-stats-git-master-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" /> -->
 
-</p> -->
+</p> 
+</details>
                          
 <!--
 ### 📧 Contact
