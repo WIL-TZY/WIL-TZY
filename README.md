@@ -40,7 +40,7 @@
  <summary>:zap: Github Stats</summary>
  <br>
 
-  <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=donut&langs_count=6&hide=yacc,glsl&theme=radical" />
+  <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=donut&langs_count=7&hide=yacc,glsl&theme=radical" />
   <!-- <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" /> -->
 
 </p> 
