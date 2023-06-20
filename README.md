@@ -13,9 +13,9 @@
 <img align="left" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1c88c8" />
 <img align="left" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
 <img align="left" src="https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080" />  
-<img align="left" src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />  
+<img align="left" src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />
+<img align="left" src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp" />
 <img align="left" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python" />
-
 <h2 align="center">🛠 Tools</h2>
 
 <img align="right" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=23aaf2" />
@@ -26,6 +26,7 @@
 <img align="right" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
 <img align="right" src="https://img.shields.io/badge/-Tiled-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAElJREFUKJFjZGBg+M9AImBhYGBgCE84BhdYucCKIJ+JVFsYGBjI08TIQIafGLGI/Uf3A7o6+voJHWDzI4o6FmwmYfETChjkfgIAgCIUGORMi1QAAAAASUVORK5CYII=" />
 <img align="right" src="https://img.shields.io/badge/-LÖVE2D-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAJhJREFUKJFjZMACnnvN/I/Ml9yWzoiuBkUAXQM6QDaAiVhNDAwMDOqrHsLVMBKrySHBA86+GSbPyIKuQGJrGgMDAwPDC+9ZKHyG1Y9Q1DEi2wZXhANoIGlmwqMOL6CORpi/sAENND8yoUcuugJsYjfD5BlRbIQFObJCbAYxMCClHOTIxQduhskzomgkRjNME4ZGXAYga4ABACT0N8cGWT5uAAAAAElFTkSuQmCC" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" />
 <br>
 <br>
   
