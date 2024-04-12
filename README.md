@@ -1,5 +1,3 @@
-<!-- <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="auto" height="130" theme=tokyonight/><br><br> -->
- 
 <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=18&duration=2500&height=100&width=1200&pause=300&center=true&multiline=true&repeat=false&lines=Howdy,+I'm+Nael+👋;Recently+enrolled+as+a+Systems+Information+undergraduate.;I+also+do+digital+art+(portfolio+link+is+on+Github+bio).;Learning+how+to+code+websites,+apps+and+games+:)" />
 
 <h2 align="center">✨ Interests</h2>
@@ -29,21 +27,11 @@
 <img align="right" src="https://img.shields.io/badge/-LÖVE2D-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAJhJREFUKJFjZMACnnvN/I/Ml9yWzoiuBkUAXQM6QDaAiVhNDAwMDOqrHsLVMBKrySHBA86+GSbPyIKuQGJrGgMDAwPDC+9ZKHyG1Y9Q1DEi2wZXhANoIGlmwqMOL6CORpi/sAENND8yoUcuugJsYjfD5BlRbIQFObJCbAYxMCClHOTIxQduhskzomgkRjNME4ZGXAYga4ABACT0N8cGWT5uAAAAAElFTkSuQmCC" />
 <br>
 <br>
-  
-</p>
-
-<!-- <h2></h2>
-
-<img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GITHUB+STATS&size=30&duration=2500&height=90&width=1200&pause=300&center=true&multiline=false&repeat=false" />
--->
 
 <details align="center">
  <summary>:zap: Github Stats</summary>
  <br>
-  <img align="center" src="https://github-readme-stats-81uj-willowitzy.vercel.app/api/top-langs/?username=willowitzy&layout=donut&langs_count=7&hide=yacc,glsl,dart&theme=radical" />
-  <!-- <img align="center" src= "https://github-readme-stats-8dtfxfr6g-willowitzy.vercel.app/api?username=willowitzy&theme=radical&line_height=28" /> -->
-
-</p> 
+  <img align="center" src="https://github-readme-stats-lyart-alpha.vercel.app/api/top-langs/?username=WIL-TZY&layout=donut&langs_count=8&hide=yacc,glsl,dart&theme=radical" />
 </details>
                          
 <!--
