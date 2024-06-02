@@ -20,7 +20,7 @@
 <div align="center">
 <h2>🛠 Tools</h2>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=23aaf2" />
-<img src="https://img.shields.io/badge/-GameMaker-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAFlJREFUKJGlkjsOACAMQkvj/a+si4P90JDIpvKkRM2I9hU7B4OCCSi+ssFSMhwW02gZ9gnKKa8HCtR1hpLUwas24UDoqNzeydXRsv6fgyVLiVPy+HMY3E1yAANfRAkZtKuxAAAAAElFTkSuQmCC" />
+<img src="https://img.shields.io/badge/-GameMaker-333333?style=flat&logo=gamemaker" />
 <img src="https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine" />
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
 <img src="https://img.shields.io/badge/-Tiled-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAElJREFUKJFjZGBg+M9AImBhYGBgCE84BhdYucCKIJ+JVFsYGBjI08TIQIafGLGI/Uf3A7o6+voJHWDzI4o6FmwmYfETChjkfgIAgCIUGORMi1QAAAAASUVORK5CYII=" />
