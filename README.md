@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=30&height=90&width=1200&center=true&multiline=false&repeat=true&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT" />
 <!-- <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT&size=30&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false" /> -->
 
+<!-- https://simpleicons.org -->
 <div align="center">
 <h2>📚 Learning</h2>
 <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoWidth=20" />
@@ -13,6 +14,7 @@
 <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />
 <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=f34b7d" />
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python" />
+<img src="https://img.shields.io/badge/-Ren'Py-333333?style=flat&logo=ren'py" />
 <img src="https://img.shields.io/badge/-Rust-333333?style=plastic&logo=rust" />
 </div>
 <div align="center">
