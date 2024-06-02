@@ -3,26 +3,27 @@
 <h2 align="center">✨ Interests</h2>
 <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&font=inconsolata&size=30&height=90&width=1200&center=true&multiline=false&repeat=true&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT" />
 <!-- <img src="https://readme-typing-svg.demolab.com/?color=f50ab8&lines=GAME+DEVELOPMENT;WEB+DEVELOPMENT&size=30&duration=2500&height=90&width=1200&pause=300&center=true&multiline=true&repeat=false" /> -->
-<p align="center">
-  
-<h2 align="left">📚 Learning</h2>
 
-<img align="left" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoWidth=20" />
-<img align="left" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1c88c8" />
-<img align="left" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-<img align="left" src="https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080" />  
-<img align="left" src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />
-<img align="left" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=f34b7d" />
-<img align="left" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python" />
-<img align="left" src="https://img.shields.io/badge/-Rust-333333?style=plastic&logo=rust" />
-<h2 align="center">🛠 Tools</h2>
-
-<img align="right" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=23aaf2" />
-<img align="right" src="https://img.shields.io/badge/-GameMaker-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAFlJREFUKJGlkjsOACAMQkvj/a+si4P90JDIpvKkRM2I9hU7B4OCCSi+ssFSMhwW02gZ9gnKKa8HCtR1hpLUwas24UDoqNzeydXRsv6fgyVLiVPy+HMY3E1yAANfRAkZtKuxAAAAAElFTkSuQmCC" />
-<img align="right" src="https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine" />
-<img align="right" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
-<img align="right" src="https://img.shields.io/badge/-Tiled-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAElJREFUKJFjZGBg+M9AImBhYGBgCE84BhdYucCKIJ+JVFsYGBjI08TIQIafGLGI/Uf3A7o6+voJHWDzI4o6FmwmYfETChjkfgIAgCIUGORMi1QAAAAASUVORK5CYII=" />
-<img align="right" src="https://img.shields.io/badge/-LÖVE2D-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAJhJREFUKJFjZMACnnvN/I/Ml9yWzoiuBkUAXQM6QDaAiVhNDAwMDOqrHsLVMBKrySHBA86+GSbPyIKuQGJrGgMDAwPDC+9ZKHyG1Y9Q1DEi2wZXhANoIGlmwqMOL6CORpi/sAENND8yoUcuugJsYjfD5BlRbIQFObJCbAYxMCClHOTIxQduhskzomgkRjNME4ZGXAYga4ABACT0N8cGWT5uAAAAAElFTkSuQmCC" />
+<div align="center">
+<h2>📚 Learning</h2>
+<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoWidth=20" />
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1c88c8" />
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=000080" />  
+<img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=191919" />
+<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=f34b7d" />
+<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python" />
+<img src="https://img.shields.io/badge/-Rust-333333?style=plastic&logo=rust" />
+</div>
+<div align="center">
+<h2>🛠 Tools</h2>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=23aaf2" />
+<img src="https://img.shields.io/badge/-GameMaker-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAFlJREFUKJGlkjsOACAMQkvj/a+si4P90JDIpvKkRM2I9hU7B4OCCSi+ssFSMhwW02gZ9gnKKa8HCtR1hpLUwas24UDoqNzeydXRsv6fgyVLiVPy+HMY3E1yAANfRAkZtKuxAAAAAElFTkSuQmCC" />
+<img src="https://img.shields.io/badge/-Godot-333333?style=flat&logo=godotengine" />
+<img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
+<img src="https://img.shields.io/badge/-Tiled-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAElJREFUKJFjZGBg+M9AImBhYGBgCE84BhdYucCKIJ+JVFsYGBjI08TIQIafGLGI/Uf3A7o6+voJHWDzI4o6FmwmYfETChjkfgIAgCIUGORMi1QAAAAASUVORK5CYII=" />
+<img src="https://img.shields.io/badge/-LÖVE2D-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAJhJREFUKJFjZMACnnvN/I/Ml9yWzoiuBkUAXQM6QDaAiVhNDAwMDOqrHsLVMBKrySHBA86+GSbPyIKuQGJrGgMDAwPDC+9ZKHyG1Y9Q1DEi2wZXhANoIGlmwqMOL6CORpi/sAENND8yoUcuugJsYjfD5BlRbIQFObJCbAYxMCClHOTIxQduhskzomgkRjNME4ZGXAYga4ABACT0N8cGWT5uAAAAAElFTkSuQmCC" />
+</div>
 <br>
 <br>
 
